@@ -50,4 +50,3 @@ dependencies {
     implementation 'com.google.firebase:firebase-messaging:23.0.3'
     implementation 'com.google.firebase:firebase-config:21.0.2'
 }
-apply plugin: 'com.google.gms.google-services'
